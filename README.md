@@ -1,3 +1,3 @@
 # carapel ᴄᴏᴍᴍᴜɴɪᴛʏ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutrolsharfik&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carapel&show_icons=true&theme=radical)
