@@ -1,4 +1,4 @@
-# carapel ᴄᴏᴍᴍᴜɴɪᴛʏ
+# Hello! I'm Plastinka
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carapel&show_icons=true&theme=radical)
 
