@@ -1,12 +1,11 @@
-# Hello! I'm Plastinka
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carapel&show_icons=true">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carapel&show_icons=true&theme=radical)
+### Hi there 👋
 
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=carapel&custom_title=Самые%20используемые%20языки&theme=dark) 
+I am currently developing Discord projects.
 
-Discord: http://sqdca.site/discord <br>
-WebSite: http://sqdca.site/<br>
-VK: Discord: http://sqdca.site/vk<br>
-Age: 17<br>
-Name: Plastinka (Denis)
- 
+- ⚡ I write in languages such as Python, JS, NodeJS, PHP.
+- 📖 The developer of the HampusBot project. 170+ servers and 160.000+ participants.
+- 🎤 Deputy developer of the MaryBot project. 900+ servers and 160,000+ participants.
+- 🎨 Developing Photoshop skills. I carry out orders, pleasant works are obtained. There are no negative reviews.
+- ✉ You can reach me via email.
