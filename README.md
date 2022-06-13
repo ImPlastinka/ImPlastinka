@@ -1,4 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ImPlastinka&show_icons=true">
+<img align='right' src="https://github-profile-trophy.vercel.app/?username=ImPlastinka&column=3&theme=onedark"/>
 
 ### Hi there 👋
 
@@ -11,4 +12,4 @@ I am currently developing Discord projects.
 - ✉ You can reach me via email.
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=ImPlastinka&column=3&theme=onedark"/>
+
