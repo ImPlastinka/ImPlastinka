@@ -11,4 +11,5 @@ I am currently developing Discord projects.
 - ✉ You can reach me via email.
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/ooliver1/ooliver1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ooliver1/ooliver1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
