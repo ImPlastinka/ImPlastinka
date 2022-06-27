@@ -9,6 +9,7 @@ I am currently developing Discord projects.
 - 🎤 Deputy developer of the MaryBot project. 900+ servers and 160,000+ participants.
 - 🎨 Developing Photoshop skills. I carry out orders, pleasant works are obtained. There are no negative reviews.
 - ✉ You can reach me via email.
-![](https://komarev.com/ghpvc/?username=ImPlastinka&color=green&style=flat-square)
+
+![](https://komarev.com/ghpvc/?username=ImPlastinka&color=blue&style=flat-square)
 
 
