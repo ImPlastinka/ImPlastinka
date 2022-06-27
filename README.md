@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ginto&size=28&color=F70000&vCenter=true&lines=Hi+there+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
-I am currently developing Discord projects.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ginto&size=15&duration=3000&color=F7F7F7&vCenter=true&multiline=true&lines=I+am+currently+developing+Discord+projects.)](https://git.io/typing-svg)
 
 - ⚡ I write in languages such as Python, JS, NodeJS, PHP.
 - 📖 The developer of the HampusBot project. 170+ servers and 160.000+ participants.
