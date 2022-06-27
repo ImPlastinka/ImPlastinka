@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ImPlastinka&show_icons=true">
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ginto&size=28&color=F70000&vCenter=true&lines=Hi+there+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
 I am currently developing Discord projects.
 
